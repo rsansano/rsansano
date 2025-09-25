@@ -25,3 +25,5 @@
 - [YouTube](https://www.youtube.com/@pepito)
 
 ![Visitas](https://komarev.com/ghpvc/?username=rsansano&color=blue)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
