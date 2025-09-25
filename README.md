@@ -8,11 +8,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
 ## 🚀 Proyectos
-- [Gestor de productos en C](https://github.com/TU-USUARIO/gestor-productos)
+- [Gestor de productos en C](https://github.com/rsansanot/gestor-productos)
 - [Algoritmos de ordenación con gráficas](https://github.com/rsansano/algoritmos-sorting)
-- [Mi página web FinvestorsHub](https://finvestorshub.com)
+- [Investment and news website](https://finvestorshub.com)
 ## 📫 Contacto
 - Email: pepito@example.com
 - [LinkedIn](https://www.linkedin.com/in/pepito/)
 - [YouTube](https://www.youtube.com/@pepito)
-![Visitas](https://komarev.com/ghpvc/?username=TU-USUARIO&color=blue)
+
+![Visitas](https://komarev.com/ghpvc/?username=rsansano&color=blue)
