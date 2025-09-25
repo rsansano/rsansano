@@ -9,7 +9,7 @@
 ## 🚀 Proyectos
 - [Gestor de productos en C](https://github.com/TU-USUARIO/gestor-productos)
 - [Algoritmos de ordenación con gráficas](https://github.com/TU-USUARIO/algoritmos-sorting)
-- [Mi página web FinvestorsHub](https://github.com/TU-USUARIO/finvestorshub)
+- [Mi página web FinvestorsHub](https://github.com/finvestorshub.com)
 ## 📫 Contacto
 - Email: pepito@example.com
 - [LinkedIn](https://www.linkedin.com/in/pepito/)
