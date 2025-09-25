@@ -2,6 +2,14 @@
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rsansano&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rsansano&layout=compact&theme=radical)
+
+### 👨‍💻 About Me
+- 🔭 I’m currently working on: a C++ game project  
+- 🌱 I’m learning: Web development (PHP & Flask)  
+- 💬 Ask me about: algorithms, databases, and C programming  
+- ⚡ Fun fact: I have a YouTube channel about animal battles 🐊🦁
+
+
 ## 🔧 Tecnologías
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
