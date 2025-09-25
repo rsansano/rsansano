@@ -6,6 +6,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ## 🚀 Proyectos
 - [Gestor de productos en C](https://github.com/TU-USUARIO/gestor-productos)
 - [Algoritmos de ordenación con gráficas](https://github.com/rsansano/algoritmos-sorting)
