@@ -4,10 +4,8 @@
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rsansano&layout=compact&theme=radical)
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on: a C++ game project  
-- 🌱 I’m learning: Web development (PHP & Flask)  
-- 💬 Ask me about: algorithms, databases, and C programming  
-- ⚡ Fun fact: I have a YouTube channel about animal battles 🐊🦁
+- I’m currently studying Computer Engineering
+- I’m learning: Web development (PHP & Flask)  
 
 
 ## 🔧 Tecnologías
@@ -15,14 +13,11 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
+
 ## 🚀 Proyectos
-- [Gestor de productos en C](https://github.com/rsansanot/gestor-productos)
-- [Algoritmos de ordenación con gráficas](https://github.com/rsansano/algoritmos-sorting)
-- [Investment and news website](https://finvestorshub.com)
-## 📫 Contacto
-- Email: pepito@example.com
-- [LinkedIn](https://www.linkedin.com/in/pepito/)
-- [YouTube](https://www.youtube.com/@pepito)
+- [Reconcile-pay](https://www.reconcile-pay.com)
+- [GetUpFinance](https://getupfinance.com)
+
 
 ![Visitas](https://komarev.com/ghpvc/?username=rsansano&color=blue)
 
