@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rsansano&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rsansano&layout=compact&theme=radical)
-
 ### 👨‍💻 About Me
 - I’m currently studying Computer Engineering
 - I’m learning: Web development (PHP & Flask)  
